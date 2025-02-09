@@ -1,0 +1,4 @@
+## ENVIORMENT
+.env 
+.env.local
+.env.development
